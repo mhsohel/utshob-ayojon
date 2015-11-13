@@ -1,0 +1,20 @@
+body 
+{
+    background-color: #ffffff; 
+    margin: 0px auto -1px auto; 
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:11px;
+    line-height:20px;
+    margin-top:20px;
+    color:#000000;
+    text-align:none;
+    text-decoration:none;
+}
+.header
+{
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:11px;
+    color:#000000;
+    text-decoration:none;
+    line-height:25px;
+}

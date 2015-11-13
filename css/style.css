@@ -1,0 +1,91 @@
+.navbar-inverse{
+/*	background:url(../image/back.PNG);*/
+}
+#sidebar{
+/*    background:url(../image/back.PNG);*/
+}
+ul li{
+    list-style: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+ul li a:link{
+    color: #ffffff;
+}
+ul li a:visited{
+    color: #ffffff;
+}
+#side{
+    width: 220px;
+/*    background:url(../image/back.PNG);*/
+    padding-top: 15px
+}
+#main_body{
+    float: right;
+}
+#body{
+    background:url(../image/bb.jpg);
+}
+.img_button{
+    background: url(../image/button.PNG);
+    margin: 10px 10px 10px 10px;
+    padding: 8px 8px 8px 8px;
+    
+}
+.img_button:hover{
+/*    box-shadow: 2px 1px 1px darkgrey;*/
+/*    border: 2px solid darkgrey;*/
+/*    margin: 8px 8px 8px 8px;*/
+background: #ebe1e1
+}
+#accordion {
+    list-style: none;
+    padding: 0 0 0 0;
+    width: 170px;
+}
+#accordion div {
+    display: block;
+    background-color: #403d3d;
+    font-weight: bold;
+    margin: 1px;
+    cursor: pointer;
+    padding: 10px 10px 10px 10px;
+
+}
+#accordion div:hover{
+    background: #666464
+}
+#accordion ul {
+    list-style: none;
+    padding: 0 0 0 5px;
+}
+#accordion ul{
+    display: none;
+}
+#accordion ul li {
+    display: block;
+    font-weight: normal;
+    cursor: auto;
+    background-color: #403d3d;
+    padding: 0 0 0 7px;
+}
+#accordion ul li:hover{
+    background: #666464
+}
+#accordion a {
+    text-decoration: none;
+}
+#accordion a:hover {
+    background: #333333;
+}
+#example{
+    background: #f9fcfc;
+}
+#print_body{
+/*    height: 576px;
+    width: 864px;*/
+    text-align: center;
+    padding-left:  220px;
+    padding-right: 240px;
+    padding-top: 50px
+}
