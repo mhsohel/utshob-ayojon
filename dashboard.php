@@ -30,86 +30,11 @@ if (!$session) {
                                 Community Center<br/>
                                 <img src="images/Admin-icon.png">
                             </div></a>
-                        <a href="employee_salary_view.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Employee Salary<br/>
-                                <img src="images/Money-icon.png">
+                        <a href="cataring/view_catering.php"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
+                                Catering<br/>
+                                <img src="images/Admin-icon.png">
                             </div></a>
-                        <a href="view_product.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Product<br/>
-                                <img src="images/product.png">
-                            </div></a>
-                        <a href="view_stock_in.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Stock In <br/>
-                                <img src="images/stock.png">
-                            </div></a>
-                    </div>
-                    <div class="col-lg-12 col-md-12">
-
-                        <a href="stock_out.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Stock Out <br/>
-                                <img src="images/stock_out.png">
-                            </div></a>
-                        <a href="stock_info.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Stock Info <br/>
-                                <img src="images/info.png">
-                            </div></a>
-                        <a href="daily_stock.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Daily Stock Info<br/>
-                                <img src="images/daily.png">
-                            </div></a>
-                        <a href="selling_invoice.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Selling Invoice <br/>
-                                <img src="images/sale_invoice.png">
-                            </div></a>
-                        <a href="selling_report.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Selling Report <br/>
-                                <img src="images/sale_report.png">
-                            </div></a>
-                    </div>
-                    <div class="col-lg-12 col-md-12">
-
-                        <a href="purchase_report.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Purchase Report<br/>
-                                <img src="images/sales-report-icon.png">
-                            </div></a>
-                        <a href="cost.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Cost Type<br/>
-                                <img src="images/catalog-icon.png">
-                            </div></a>
-                        <a href="search_cost.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Search cost <br/>
-                                <img src="images/cost_search.png">
-                            </div></a>
-                        <a href="view_cost.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Cost <br/>
-                                <img src="images/cost.png">
-                            </div></a>
-                        <a href="activity_log.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Activity Log <br/>
-                                <img src="images/Activity-Monitor-icon.png">
-                            </div></a>
-                    </div>
-                    <div class="col-lg-12 col-md-12">
-                        <a href="view_menu.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Menus <br/>
-                                <img src="images/menus.png">
-                            </div></a>
-                        <a href="view_bank.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Bank Info<br/>
-                                <img src="images/bank-icon (1).png">
-                            </div></a>
-                        <a href="view_total_balance.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Total Balance<br/>
-                                <img src="images/cash-icon.png">
-                            </div></a>
-                        <a href="email.html"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Email<br/>
-                                <img src="images/Emails-Folder-icon.png">
-                            </div></a>
-                        <a href="logout.php"><div class="col-lg-2 col-md-2 img_button" style="text-align: center">
-                                Log Out<br/>
-                                <img src="images/Button-Log-Off-icon.png">
-                            </div></a>
+                        
                     </div>
                 </div>
             </div>
